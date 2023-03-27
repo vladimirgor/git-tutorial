@@ -1,1 +1,2 @@
 repository is created
+repository is cloned from remote to local
